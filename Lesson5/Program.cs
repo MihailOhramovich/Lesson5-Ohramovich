@@ -4,8 +4,6 @@ namespace Lesson5
 {
     class Program
     {
-        class Program
-        {
             class Message
             {
 
@@ -176,5 +174,4 @@ namespace Lesson5
             }
         }
     }
-}
 
